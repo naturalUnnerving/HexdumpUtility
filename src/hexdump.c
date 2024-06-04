@@ -1,4 +1,4 @@
-/*output hex from a program ROM to standard output, break line every 16 bits.
+/*output bits from a binary to standard output, break line every 16 bits.
 index each line with adress of first bit.*/
 
 //Simple hexdump utility
